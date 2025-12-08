@@ -1,4 +1,4 @@
-# WebMiete24 Hero Scroll Animation
+# Hero Scroll Animation
 
 Ein minimalistischer Hero-Bereich mit Parallax-Scroll-Effekt und animiertem WebMiete24‑Logo (SVG). Beim Scrollen bleibt der Hero kurz „gepinnt“, das Hintergrundbild bewegt sich langsamer als der Inhalt, und das Logo reagiert auf Hover mit einer leichten Motion.[web:74][web:77][web:191]
 
