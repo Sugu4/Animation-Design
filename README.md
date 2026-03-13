@@ -19,6 +19,8 @@ Ein minimalistischer Hero-Bereich mit Parallax-Scroll-Effekt und animiertem WebM
 
 ## Nutzung
 
+👉https://sugu4.github.io/Animation-Design/
+
 1. Projekt-Datei (z. B. `index.html`) in einen Ordner legen.  
 2. Hintergrundbild-Pfad im CSS anpassen:
 .hero-bg {
